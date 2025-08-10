@@ -12,4 +12,4 @@ Diving into tools that make coding feel effortless, I'm all about zero-config CL
 * **VibeCommit** - [github.com/ClayWarren/VibeCommit](https://github.com/ClayWarren/VibeCommit) (In Progress)  
   An offline AI agent for Git workflows in Swift, designed for "vibe coding" devs who dictate commits via voice and get smart summaries without cloud APIs. Using local models like gpt-oss-20b, it auto-generates messages, verifies diffs, and prevents stalled tasks—extensible for macOS automation. Inspired by agentic engineering pains; aiming to make Git feel intuitive and fun.
 
-Contributions welcome—jump into the repos or DM me on X [@yourhandle] with ideas!
+Contributions welcome—jump into the repos or DM me on X @claymwarren with ideas!
