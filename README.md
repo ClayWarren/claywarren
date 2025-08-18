@@ -13,6 +13,7 @@ Diving into tools that make coding feel effortless, I'm all about zero-config CL
   An offline AI agent for Git workflows in Swift, designed for "vibe coding" devs who dictate commits via voice and get smart summaries without cloud APIs. Using local models like gpt-oss-20b, it auto-generates messages, verifies diffs, and prevents stalled tasks—extensible for macOS automation. Inspired by agentic engineering pains; aiming to make Git feel intuitive and fun.
 
 ##Learning Projects
+
 Snake game in 10 programming languages and multiplayer, recreated core gameplay mechanics from 7+ popular games, including: Multiplayer implementations with real-time synchronization, 2D physics and collision systems (Flappy Bird, Super Mario Bros), Voxel-based world generation (Minecraft-inspired), RPG mechanics and inventory systems (WoW-inspired). Rick and Morty-style animated film using Remotion. 
 
 Contributions welcome—jump into the repos or DM me on X @claymwarren with ideas!
