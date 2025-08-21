@@ -14,6 +14,6 @@ Diving into tools that make coding feel effortless, I'm all about zero-config CL
 
 ## Learning Projects
 
-Snake game in 10 programming languages and multiplayer, recreated core gameplay mechanics from popular games, including: Multiplayer implementations with real-time synchronization, 2D physics and collision systems (Flappy Bird, Super Mario Bros), Voxel-based world generation (Minecraft-inspired), RPG mechanics and inventory systems (WoW-inspired), and Pacman, Galaga, Farming Simulator. Rick and Morty-style animated film using Remotion. 
+Snake game in 10 programming languages and multiplayer. Recreated core gameplay mechanics from popular games, including: Multiplayer implementations with real-time synchronization, 2D physics and collision systems (Flappy Bird, Super Mario Bros), Voxel-based world generation (Minecraft-inspired), RPG mechanics and inventory systems (WoW-inspired), and Pacman, Galaga, Farming Simulator. Rick and Morty-style animated film using Remotion. 
 
 Contributions welcome—jump into the repos or DM me on X @claymwarren with ideas!
