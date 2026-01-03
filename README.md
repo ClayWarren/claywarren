@@ -1,19 +1,85 @@
-# Hi, I'm Clay 👋
+# Clay Warren
 
-📍 USA | 🤖 Indie Dev & OSS Builder | 🚀 Automating dev workflows 
+Builder focused on **AI systems, autonomous agents, and developer infrastructure**.
 
-Diving into tools that make coding feel effortless, I'm all about zero-config CLI magic and offline smarts to skip the hassle of manual prompts or cloud dependencies.
+I work on tooling that makes it easier to **design, orchestrate, and scale intelligent systems** — from SDKs and frameworks to full-stack agent platforms.
 
-## Current Projects
+---
 
-* **DevLog** - [github.com/ClayWarren/DevLog](https://github.com/ClayWarren/DevLog)  
-  A zero-configuration CLI that turns your Git commit history into a clean, daily developer journal in Markdown. It groups commits by date automatically, runs instantly via npx, and works in any repo—no setup needed. Perfect for solo devs or teams wanting shareable changelogs without the tedium; next up: custom groupings, exports, and local AI summaries for human-readable insights.
+## 🧠 Current Focus
 
-* **VibeCommit** - [github.com/ClayWarren/VibeCommit](https://github.com/ClayWarren/VibeCommit) (In Progress)  
-  An offline AI agent for Git workflows in Swift, designed for "vibe coding" devs who dictate commits via voice and get smart summaries without cloud APIs. Using local models like gpt-oss-20b, it auto-generates messages, verifies diffs, and prevents stalled tasks—extensible for macOS automation. Inspired by agentic engineering pains; aiming to make Git feel intuitive and fun.
+* **Autonomous AI agents & orchestration**
+* **Developer-first AI frameworks & SDKs**
+* **Scalable AI infrastructure (events, workflows, streaming)**
+* **Decentralized & long-term AGI-aligned systems**
 
-## Learning Projects
+Most of my work lives at the intersection of **AI × software architecture × product**.
 
-Snake game in 10 programming languages and multiplayer. Recreated core gameplay mechanics from popular games, including: Multiplayer implementations with real-time synchronization, 2D physics and collision systems (Flappy Bird, Super Mario Bros), Voxel-based world generation (Minecraft-inspired), RPG mechanics and inventory systems (WoW-inspired), and Pacman, Galaga, Farming Simulator. Rick and Morty-style animated film using Remotion. 
+---
 
-Contributions welcome—jump into the repos or DM me on X @claymwarren with ideas!
+## 🚀 Active Projects
+
+### **TaskForceAI**
+
+> A framework and platform for building and running autonomous AI agents.
+
+* Agent orchestration & workflows
+* Type-safe SDKs (TypeScript & Python)
+* Event-driven execution
+* Designed for real-world production use
+
+Repos:
+
+* `taskforceai-sdk-typescript`
+* `taskforceai-sdk-python`
+
+---
+
+### **Vibe Coding Language (VCL)**
+
+> An experimental coding language exploring expressive, intention-driven programming.
+
+* Designed for human–AI collaboration
+* Focus on readability and flow
+* Research-oriented but practical
+
+---
+
+## 🛠 Tech I Work With
+
+* **Languages:** TypeScript, Go, Python, Rust
+* **AI:** LLMs, agents, tool-use, streaming, SSE
+* **Web / Infra:** TanStack, Next.js, event-driven systems
+* **Dev Tooling:** SDK design, CLIs, APIs, monorepos
+* **Systems:** Distributed systems, automation, workflows
+
+---
+
+## 🎯 Philosophy
+
+* **Optimize for leverage and scalability**
+* **AI systems should be understandable, composable, and reliable**
+* **Long-term thinking > short-term hype**
+
+---
+
+## 🤝 Collaboration
+
+I’m open to:
+
+* Collaborating with strong builders
+* Early-stage AI infrastructure ideas
+* Research-aligned applied AI projects
+
+📬 Reach out:
+
+* **X:** [https://x.com/claymwarren](https://x.com/claymwarren)
+* **LinkedIn:** [https://www.linkedin.com/in/clay-warren/](https://www.linkedin.com/in/clay-warren/)
+
+---
+
+## 📌 Note
+
+This repo serves as a **profile + index** for my public work.
+Individual repositories contain detailed docs and implementation notes.
+
