@@ -34,7 +34,7 @@ Repos:
 * `taskforceai-sdk-typescript`
 * `taskforceai-sdk-python`
 * `taskforceai-hub`
-* `taskforceai-homebrew`
+* `homebrew-taskforceai`
 
 ---
 
