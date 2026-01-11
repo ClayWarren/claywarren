@@ -30,8 +30,11 @@ Most of my work lives at the intersection of **AI × software architecture × pr
 
 Repos:
 
+* `taskforceai-tui`
 * `taskforceai-sdk-typescript`
 * `taskforceai-sdk-python`
+* `taskforceai-hub`
+* `taskforceai-homebrew`
 
 ---
 
