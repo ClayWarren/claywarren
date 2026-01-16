@@ -21,30 +21,17 @@ Most of my work lives at the intersection of **AI × software architecture × pr
 
 ### **TaskForceAI**
 
-> A framework and platform for building and running autonomous AI agents.
-
-* Agent orchestration & workflows
-* Type-safe SDKs (TypeScript & Python)
-* Event-driven execution
-* Designed for real-world production use
+> A framework and platform for building and running multi-agent orchestration.
 
 Repos:
 
 * `taskforceai-tui`
 * `taskforceai-sdk-typescript`
 * `taskforceai-sdk-python`
+* `taskforceai-sdk-go`
+* `taskforceai-sdk-rust`
 * `taskforceai-hub`
 * `homebrew-taskforceai`
-
----
-
-### **Vibe Coding Language (VCL)**
-
-> An experimental coding language exploring expressive, intention-driven programming.
-
-* Designed for human–AI collaboration
-* Focus on readability and flow
-* Research-oriented but practical
 
 ---
 
@@ -80,9 +67,3 @@ I’m open to:
 * **LinkedIn:** [https://www.linkedin.com/in/clay-warren/](https://www.linkedin.com/in/clay-warren/)
 
 ---
-
-## 📌 Note
-
-This repo serves as a **profile + index** for my public work.
-Individual repositories contain detailed docs and implementation notes.
-
