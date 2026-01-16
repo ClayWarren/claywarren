@@ -36,22 +36,17 @@ Most of my work lives at the intersection of **AI × software architecture × pr
 ---
 * [`tsgo-lsp`](https://github.com/ClayWarren/tsgo-lsp) - Claude Code plugin 
 ---
-These Go SDKs are **actively maintained production dependencies** used by the TaskForceAI server.
+These Go SDKs are **actively maintained production dependencies** used by the TaskForceAI server
 
-* **[revenuecat](https://github.com/ClayWarren/revenuecat)**
-  Go client for the RevenueCat API.
+* [`revenuecat`](https://github.com/ClayWarren/revenuecat) - Go client for the RevenueCat API
 
-* **[vercel_blob](https://github.com/ClayWarren/vercel_blob)**
-  Go client for the Vercel Blob API.
+* [`vercel_blob`](https://github.com/ClayWarren/vercel_blob) - Go client for the Vercel Blob API
 
-* **[go-brave-search](https://github.com/ClayWarren/go-brave-search)**
-  Go SDK for Brave Search.
+* [`go-brave-search`](https://github.com/ClayWarren/go-brave-search) - Go SDK for Brave Search
 
-* **[upstash-go](https://github.com/ClayWarren/upstash-go)**
-  HTTP-based Go Redis client for Upstash.
+* [`upstash-go`](https://github.com/ClayWarren/upstash-go) - HTTP-based Go Redis client for Upstash
 
-* **[e2b-go](https://github.com/ClayWarren/e2b-go)**
-  Go SDK for E2B (cloud runtime for AI agents).
+* [`e2b-go`](https://github.com/ClayWarren/e2b-go) - Go SDK for E2B (cloud runtime for AI agents)
 ---
 
 ## 🛠 Tech I Work With
