@@ -67,5 +67,3 @@ I’m open to:
 
 * **X:** [https://x.com/claymwarren](https://x.com/claymwarren)
 * **LinkedIn:** [https://www.linkedin.com/in/clay-warren/](https://www.linkedin.com/in/clay-warren/)
-
----
