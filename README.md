@@ -23,15 +23,15 @@ Most of my work lives at the intersection of **AI × software architecture × pr
 
 > A framework and platform for building and running multi-agent orchestration.
 
-Repos:
+**Repos:**
 
-* `taskforceai-tui`
-* `taskforceai-sdk-typescript`
-* `taskforceai-sdk-python`
-* `taskforceai-sdk-go`
-* `taskforceai-sdk-rust`
-* `taskforceai-hub`
-* `homebrew-taskforceai`
+* [`taskforceai-tui`](https://github.com/ClayWarren/taskforceai-tui)
+* [`taskforceai-sdk-typescript`](https://github.com/ClayWarren/taskforceai-sdk-typescript)
+* [`taskforceai-sdk-python`](https://github.com/ClayWarren/taskforceai-sdk-python)
+* [`taskforceai-sdk-go`](https://github.com/ClayWarren/taskforceai-sdk-go)
+* [`taskforceai-sdk-rust`](https://github.com/ClayWarren/taskforceai-sdk-rust)
+* [`taskforceai-hub`](https://github.com/ClayWarren/taskforceai-hub)
+* [`homebrew-taskforceai`](https://github.com/ClayWarren/homebrew-taskforceai)
 
 ---
 
