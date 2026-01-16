@@ -34,6 +34,8 @@ Most of my work lives at the intersection of **AI × software architecture × pr
 * [`homebrew-taskforceai`](https://github.com/ClayWarren/homebrew-taskforceai)
 
 ---
+* [`tsgo-lsp`](https://github.com/ClayWarren/tsgo-lsp) - Claude Code plugin 
+---
 
 ## 🛠 Tech I Work With
 
