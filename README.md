@@ -36,7 +36,7 @@ Most of my work lives at the intersection of **AI × software architecture × pr
 ---
 * [`tsgo-lsp`](https://github.com/ClayWarren/tsgo-lsp) - Claude Code plugin 
 ---
-These Go SDKs are **actively maintained production dependencies** used by the TaskForceAI server
+These Go SDKs are **actively maintained production dependencies** used by the TaskForceAI backend
 
 * [`revenuecat`](https://github.com/ClayWarren/revenuecat) - Go client for the RevenueCat API
 
