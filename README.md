@@ -25,12 +25,7 @@ Most of my work lives at the intersection of **AI × software architecture × pr
 
 **Repos:**
 
-* [`taskforceai-tui`](https://github.com/ClayWarren/taskforceai-tui)
-* [`taskforceai-sdk-typescript`](https://github.com/ClayWarren/taskforceai-sdk-typescript)
-* [`taskforceai-sdk-python`](https://github.com/ClayWarren/taskforceai-sdk-python)
-* [`taskforceai-sdk-go`](https://github.com/ClayWarren/taskforceai-sdk-go)
-* [`taskforceai-sdk-rust`](https://github.com/ClayWarren/taskforceai-sdk-rust)
-* [`taskforceai-hub`](https://github.com/ClayWarren/taskforceai-hub)
+* [`taskforceai-open`](https://github.com/ClayWarren/taskforceai-open)
 * [`homebrew-taskforceai`](https://github.com/ClayWarren/homebrew-taskforceai)
 
 ---
@@ -43,9 +38,6 @@ These Go SDKs are **actively maintained production dependencies** used by the Ta
 
 * [`go-brave-search`](https://github.com/ClayWarren/go-brave-search) - Go SDK for Brave Search
 
-* [`upstash-go`](https://github.com/ClayWarren/upstash-go) - HTTP-based Go Redis client for Upstash
-
-* [`e2b-go`](https://github.com/ClayWarren/e2b-go) - Go SDK for E2B (cloud runtime for AI agents)
 ---
 
 ## 🛠 Tech I Work With
@@ -55,14 +47,6 @@ These Go SDKs are **actively maintained production dependencies** used by the Ta
 * **Web / Infra:** TanStack, Next.js, event-driven systems
 * **Dev Tooling:** SDK design, CLIs, APIs, monorepos
 * **Systems:** Distributed systems, automation, workflows
-
----
-
-## 🎯 Philosophy
-
-* **Optimize for leverage and scalability**
-* **AI systems should be understandable, composable, and reliable**
-* **Long-term thinking > short-term hype**
 
 ---
 
