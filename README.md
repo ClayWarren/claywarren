@@ -30,16 +30,6 @@ Most of my work lives at the intersection of **AI × software architecture × pr
 
 ---
 
-These Go SDKs are **actively maintained production dependencies** used by the TaskForceAI backend
-
-* [`revenuecat`](https://github.com/ClayWarren/revenuecat) - Go client for the RevenueCat API
-
-* [`vercel_blob`](https://github.com/ClayWarren/vercel_blob) - Go client for the Vercel Blob API
-
-* [`go-brave-search`](https://github.com/ClayWarren/go-brave-search) - Go SDK for Brave Search
-
----
-
 ## 🛠 Tech I Work With
 
 * **Languages:** TypeScript, Go, Python, Rust
